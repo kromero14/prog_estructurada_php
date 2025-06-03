@@ -45,8 +45,8 @@
     <h2>De unión de cadenas</h2>
 
     <?php
-        $nombre = "Nestór";
-        $apellido  = "Páez";
+        $nombre = "Keiner";
+        $apellido  = "Romero";
 
         $nombre_completo = $nombre." ".$apellido;
 
